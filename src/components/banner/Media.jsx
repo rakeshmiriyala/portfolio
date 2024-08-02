@@ -12,7 +12,7 @@ import { SiFigma } from "react-icons/si";
 const Media = () => {
   const githubUrl = "https://github.com/rakeshmiriyala/";
   const instaUrl = "https://www.instagram.com/rakeshkrishna_74/";
-  const linkedinUrl = "https://www.linkedin.com/in/rakesh-miriyala-094bb122a/";
+  const linkedinUrl = "https://www.linkedin.com/in/rakeshmiriyala/";
 
   return (
     <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
